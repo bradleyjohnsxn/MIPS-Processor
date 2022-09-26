@@ -1,0 +1,733 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Bradley/EEL4712/Lab6
+Ealu
+Z0 w1649078862
+Z1 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Bradley/EEL4712/FinalProject
+Z6 8C:/Users/Bradley/EEL4712/FinalProject/alu.vhd
+Z7 FC:/Users/Bradley/EEL4712/FinalProject/alu.vhd
+l0
+L5
+VRNA:?HkoY6LZZ[8`cFHPG3
+!s100 XbUk=DG<DQ@k2D]KOOd=I1
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1649298062
+!i10b 1
+Z10 !s108 1649298062.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/alu.vhd|
+Z12 !s107 C:/Users/Bradley/EEL4712/FinalProject/alu.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Aoperations
+R1
+R2
+R3
+R4
+Z15 DEx4 work 3 alu 0 22 RNA:?HkoY6LZZ[8`cFHPG3
+l22
+L20
+V2]kkb46R1`F5aN]EA0f@10
+!s100 HSaLnFKBH`JE3991^a^mM3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealu_control
+Z16 w1648600815
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/Bradley/EEL4712/FinalProject/alu_control.vhd
+Z18 FC:/Users/Bradley/EEL4712/FinalProject/alu_control.vhd
+l0
+L5
+V?AKL2_dkgWA:L4JQO`YCH0
+!s100 SMnVTbYSBXW;zN0hDaafW2
+R8
+32
+Z19 !s110 1649298061
+!i10b 1
+Z20 !s108 1649298061.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/alu_control.vhd|
+Z22 !s107 C:/Users/Bradley/EEL4712/FinalProject/alu_control.vhd|
+!i113 1
+R13
+R14
+Actrl
+R1
+R2
+R3
+R4
+Z23 DEx4 work 11 alu_control 0 22 ?AKL2_dkgWA:L4JQO`YCH0
+l23
+L17
+V0hLHgzCC<1SVVnY_=4kML1
+!s100 W[e3miBYlmNO]V?3YiHAn0
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Ealu_tb
+Z24 w1648553341
+R1
+R2
+R3
+R4
+R5
+Z25 8C:/Users/Bradley/EEL4712/FinalProject/alu_tb.vhd
+Z26 FC:/Users/Bradley/EEL4712/FinalProject/alu_tb.vhd
+l0
+L6
+VdZ8ZZ_L2hD?Po8[KP6P[:3
+!s100 XSB7e@52;JRdFI3A^2[U23
+R8
+32
+R19
+!i10b 1
+Z27 !s108 1649298060.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/alu_tb.vhd|
+Z29 !s107 C:/Users/Bradley/EEL4712/FinalProject/alu_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R1
+R2
+R3
+R4
+DEx4 work 6 alu_tb 0 22 dZ8ZZ_L2hD?Po8[KP6P[:3
+l37
+L9
+V^ojT>IYh^]Vo1:Fg5ChTl2
+!s100 3m?CEBMLMNCGQBRXfDlbC2
+R8
+32
+R19
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R13
+R14
+Econtroller
+Z30 w1649300607
+R1
+R2
+R3
+R4
+R5
+Z31 8C:/Users/Bradley/EEL4712/FinalProject/controller.vhd
+Z32 FC:/Users/Bradley/EEL4712/FinalProject/controller.vhd
+l0
+L6
+VdWLP`D_5ZC]5Ub^Szb?hL3
+!s100 GoSX;k5HLET>jo0AjH9Hf1
+R8
+32
+Z33 !s110 1649300612
+!i10b 1
+Z34 !s108 1649300612.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/controller.vhd|
+Z36 !s107 C:/Users/Bradley/EEL4712/FinalProject/controller.vhd|
+!i113 1
+R13
+R14
+Abhv
+R1
+R2
+R3
+R4
+Z37 DEx4 work 10 controller 0 22 dWLP`D_5ZC]5Ub^Szb?hL3
+l35
+L26
+V:`R6hP2o5^O>SWHlY6[;V3
+!s100 EaJnk=O_:`YH28VMVKj^I0
+R8
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R13
+R14
+Edatapath
+Z38 w1649297925
+R1
+R2
+R3
+R4
+R5
+Z39 8C:/Users/Bradley/EEL4712/FinalProject/datapath.vhd
+Z40 FC:/Users/Bradley/EEL4712/FinalProject/datapath.vhd
+l0
+L6
+Ve0`8[h9=TQ^F3z>QH``1l1
+!s100 <0OG>0FK7i9gM4MgJRO_a0
+R8
+32
+R19
+!i10b 1
+R20
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/datapath.vhd|
+Z42 !s107 C:/Users/Bradley/EEL4712/FinalProject/datapath.vhd|
+!i113 1
+R13
+R14
+Adp
+R23
+R15
+Z43 DEx4 work 6 mux4x1 0 22 ED<CJLL^J2GH9:nLiLzU22
+Z44 DEx4 work 13 register_file 0 22 z]KXP<T`1lWYh1ljmkeg`0
+Z45 DEx4 work 6 memory 0 22 GED1GIGN<:FlADQWjIh711
+Z46 DEx4 work 6 mux2x1 0 22 X>VXDVO;FZF7Az_6e0T@31
+Z47 DEx4 work 3 reg 0 22 Fd`<hMoJ_m_86JkE_S^LB1
+R1
+R2
+R3
+R4
+Z48 DEx4 work 8 datapath 0 22 e0`8[h9=TQ^F3z>QH``1l1
+l56
+L33
+Vl_Pd98zfF:_`?dMKGjbdb3
+!s100 ??;>j;jXlT0gkzPF:Qng@0
+R8
+32
+R19
+!i10b 1
+R20
+R41
+R42
+!i113 1
+R13
+R14
+Edecoder7seg
+Z49 w1643136551
+R3
+R4
+R5
+Z50 8C:/Users/Bradley/EEL4712/FinalProject/decoder7seg.vhd
+Z51 FC:/Users/Bradley/EEL4712/FinalProject/decoder7seg.vhd
+l0
+L4
+VP::OGQLiSBIV3AK2ejb;o2
+!s100 Xcf;?DIgO:3J`>`<JZG2g2
+R8
+32
+R9
+!i10b 1
+R10
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/decoder7seg.vhd|
+Z53 !s107 C:/Users/Bradley/EEL4712/FinalProject/decoder7seg.vhd|
+!i113 1
+R13
+R14
+Adecoder
+R3
+R4
+Z54 DEx4 work 11 decoder7seg 0 22 P::OGQLiSBIV3AK2ejb;o2
+l11
+L10
+V@e^><1_KK[D<eb79RLdl`1
+!s100 YacROXEe@]zQB]>>CeCR_2
+R8
+32
+R9
+!i10b 1
+R10
+R52
+R53
+!i113 1
+R13
+R14
+Ememory
+Z55 w1648605083
+R1
+R2
+R3
+R4
+R5
+Z56 8C:/Users/Bradley/EEL4712/FinalProject/memory.vhd
+Z57 FC:/Users/Bradley/EEL4712/FinalProject/memory.vhd
+l0
+L6
+VGED1GIGN<:FlADQWjIh711
+!s100 A^fP9^da@JIHn1A6oT8U12
+R8
+32
+R19
+!i10b 1
+R20
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/memory.vhd|
+Z59 !s107 C:/Users/Bradley/EEL4712/FinalProject/memory.vhd|
+!i113 1
+R13
+R14
+Amem
+R43
+R47
+Z60 DPx9 altera_mf 20 altera_mf_components 0 22 Sn8Ol<dGSW99iM6NfOU>g1
+Z61 DEx4 work 9 ram256x32 0 22 jDgi]U`3=e4;@Yi5EUm>=2
+R1
+R2
+R3
+R4
+R45
+l25
+L18
+Vla5@J78CHPmU<m;@HkMb03
+!s100 D4OX9gENYFMS:An?^ggTT0
+R8
+32
+R19
+!i10b 1
+R20
+R58
+R59
+!i113 1
+R13
+R14
+Ememory_tb
+Z62 w1648600860
+R1
+R2
+R3
+R4
+R5
+Z63 8C:/Users/Bradley/EEL4712/FinalProject/memory_tb.vhd
+Z64 FC:/Users/Bradley/EEL4712/FinalProject/memory_tb.vhd
+l0
+L6
+Va3EGE?HjCB5]?H71gDBh=1
+!s100 <Vb_T0kjYTNL[MLFB7]_13
+R8
+32
+R19
+!i10b 1
+R20
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/memory_tb.vhd|
+Z66 !s107 C:/Users/Bradley/EEL4712/FinalProject/memory_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R45
+R1
+R2
+R3
+R4
+DEx4 work 9 memory_tb 0 22 a3EGE?HjCB5]?H71gDBh=1
+l25
+L9
+VTna^ZUKfb;kB0[e4iMS7i1
+!s100 BniAO7LGH<YSiiaN07dMH1
+R8
+32
+R19
+!i10b 1
+R20
+R65
+R66
+!i113 1
+R13
+R14
+Emips
+Z67 w1649298050
+R2
+R3
+R4
+R5
+Z68 8C:\Users\Bradley\EEL4712\FinalProject\mips.vhd
+Z69 FC:\Users\Bradley\EEL4712\FinalProject\mips.vhd
+l0
+L5
+VaCNzPYF5Och14Q=`b_E_Q2
+!s100 alVYLMPjjT?LE7F6fD4UX1
+R8
+32
+R9
+!i10b 1
+R10
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Bradley\EEL4712\FinalProject\mips.vhd|
+Z71 !s107 C:\Users\Bradley\EEL4712\FinalProject\mips.vhd|
+!i113 1
+R13
+R14
+Astr
+R48
+R1
+R37
+R2
+R3
+R4
+Z72 DEx4 work 4 mips 0 22 aCNzPYF5Och14Q=`b_E_Q2
+l33
+L13
+VaFim9fSGUb[B1fZ:`LMzE3
+!s100 LI]PE9BbaBhLBg6]bMFR]1
+R8
+32
+R9
+!i10b 1
+R10
+R70
+R71
+!i113 1
+R13
+R14
+Emips_tb
+Z73 w1649878769
+R1
+R2
+R3
+R4
+R5
+Z74 8C:/Users/Bradley/EEL4712/FinalProject/mips_tb.vhd
+Z75 FC:/Users/Bradley/EEL4712/FinalProject/mips_tb.vhd
+l0
+L6
+V]=H0=AkG@m7N11P<O`7L71
+!s100 >zCVn8EXP]VM1Vbab`4i[2
+R8
+32
+Z76 !s110 1649878774
+!i10b 1
+Z77 !s108 1649878773.000000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/mips_tb.vhd|
+Z79 !s107 C:/Users/Bradley/EEL4712/FinalProject/mips_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R72
+R1
+R2
+R3
+R4
+Z80 DEx4 work 7 mips_tb 0 22 ]=H0=AkG@m7N11P<O`7L71
+l19
+L9
+V8]41SGT;f:zi70S8a:a2X0
+!s100 ELoWBU;RH;aad159:>9572
+R8
+32
+R76
+!i10b 1
+R77
+R78
+R79
+!i113 1
+R13
+R14
+Emux2x1
+Z81 w1648327161
+R3
+R4
+R5
+Z82 8C:/Users/Bradley/EEL4712/FinalProject/mux2x1.vhd
+Z83 FC:/Users/Bradley/EEL4712/FinalProject/mux2x1.vhd
+l0
+L4
+VX>VXDVO;FZF7Az_6e0T@31
+!s100 lL0MGo[]6`@T1Q0[glBYb0
+R8
+32
+R19
+!i10b 1
+R20
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/mux2x1.vhd|
+Z85 !s107 C:/Users/Bradley/EEL4712/FinalProject/mux2x1.vhd|
+!i113 1
+R13
+R14
+Aif_statement
+R3
+R4
+R46
+l14
+L13
+VB`PemlB?ZQ=]:GI>KDFn00
+!s100 HciGIJdSM_cB_Rh_?:5gN0
+R8
+32
+R19
+!i10b 1
+R20
+R84
+R85
+!i113 1
+R13
+R14
+Emux3x1
+Z86 w1648275934
+R3
+R4
+R5
+Z87 8C:/Users/Bradley/EEL4712/FinalProject/mux3x1.vhd
+Z88 FC:/Users/Bradley/EEL4712/FinalProject/mux3x1.vhd
+l0
+L4
+VmfgKAcOg7RWz6na>UCSaO2
+!s100 ZUe_l5>;9nXekY>C`fUc_3
+R8
+32
+Z89 !s110 1648276748
+!i10b 1
+Z90 !s108 1648276748.000000
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/mux3x1.vhd|
+Z92 !s107 C:/Users/Bradley/EEL4712/FinalProject/mux3x1.vhd|
+!i113 1
+R13
+R14
+Aif_statement
+R3
+R4
+DEx4 work 6 mux3x1 0 22 mfgKAcOg7RWz6na>UCSaO2
+l13
+L12
+Va8kfe^5[m5?ci=U<ZSGC=0
+!s100 E4BE_VVm@akTB0MPHMGgF1
+R8
+32
+R89
+!i10b 1
+R90
+R91
+R92
+!i113 1
+R13
+R14
+Emux4x1
+Z93 w1648338607
+R3
+R4
+R5
+Z94 8C:/Users/Bradley/EEL4712/FinalProject/mux4x1.vhd
+Z95 FC:/Users/Bradley/EEL4712/FinalProject/mux4x1.vhd
+l0
+L4
+VED<CJLL^J2GH9:nLiLzU22
+!s100 Zm<em@bmm;I7X;ZLVOViH0
+R8
+32
+R19
+!i10b 1
+R20
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/mux4x1.vhd|
+Z97 !s107 C:/Users/Bradley/EEL4712/FinalProject/mux4x1.vhd|
+!i113 1
+R13
+R14
+Aif_statement
+R3
+R4
+R43
+l13
+L12
+V4Ige=2^5X?k];0`?O6H?f1
+!s100 IV]linC2Fm22_[GKB^7c=1
+R8
+32
+R19
+!i10b 1
+R20
+R96
+R97
+!i113 1
+R13
+R14
+Eram256x32
+Z98 w1649878638
+R60
+R3
+R4
+R5
+Z99 8C:\Users\Bradley\EEL4712\FinalProject\ram256x32.vhd
+Z100 FC:\Users\Bradley\EEL4712\FinalProject\ram256x32.vhd
+l0
+L42
+VjDgi]U`3=e4;@Yi5EUm>=2
+!s100 FbNSgHfl>^@]jJRDhG>`m1
+R8
+32
+Z101 !s110 1649878645
+!i10b 1
+Z102 !s108 1649878645.000000
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Bradley\EEL4712\FinalProject\ram256x32.vhd|
+Z104 !s107 C:\Users\Bradley\EEL4712\FinalProject\ram256x32.vhd|
+!i113 1
+R13
+R14
+Asyn
+R60
+R3
+R4
+R61
+l58
+L54
+VLfVG345hFbi_Ekc[Km1X53
+!s100 k;;4f32d_mA?HYCE[<4dl1
+R8
+32
+R101
+!i10b 1
+R102
+R103
+R104
+!i113 1
+R13
+R14
+Ereg
+Z105 w1647360701
+R3
+R4
+R5
+Z106 8C:/Users/Bradley/EEL4712/FinalProject/reg.vhd
+Z107 FC:/Users/Bradley/EEL4712/FinalProject/reg.vhd
+l0
+L13
+VFd`<hMoJ_m_86JkE_S^LB1
+!s100 bzG>7QgjQ@;m_HgneDG:f1
+R8
+32
+R19
+!i10b 1
+R20
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/reg.vhd|
+Z109 !s107 C:/Users/Bradley/EEL4712/FinalProject/reg.vhd|
+!i113 1
+R13
+R14
+Abhv
+R3
+R4
+R47
+l23
+L22
+VNDIjc_eOGkmJ4=5f=gi^M2
+!s100 5l6gN@UG`J3<I_EoM[AQc2
+R8
+32
+R19
+!i10b 1
+R20
+R108
+R109
+!i113 1
+R13
+R14
+Eregister_file
+Z110 w1648480100
+R1
+R2
+R3
+R4
+R5
+Z111 8C:/Users/Bradley/EEL4712/FinalProject/register_file.vhd
+Z112 FC:/Users/Bradley/EEL4712/FinalProject/register_file.vhd
+l0
+L6
+Vz]KXP<T`1lWYh1ljmkeg`0
+!s100 ^lT@5hGej5AR@@cfXY`n92
+R8
+32
+R19
+!i10b 1
+R20
+Z113 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Bradley/EEL4712/FinalProject/register_file.vhd|
+Z114 !s107 C:/Users/Bradley/EEL4712/FinalProject/register_file.vhd|
+!i113 1
+R13
+R14
+Aasync_read
+R1
+R2
+R3
+R4
+R44
+l22
+L18
+V6cY7Q>5olahR140dAKbQm1
+!s100 WJcXB`Q>Ka];:2[aNgbAP3
+R8
+32
+R19
+!i10b 1
+R20
+R113
+R114
+!i113 1
+R13
+R14
+Etop_level
+Z115 w1649804486
+R2
+R3
+R4
+R5
+Z116 8C:\Users\Bradley\EEL4712\FinalProject\top_level.vhd
+Z117 FC:\Users\Bradley\EEL4712\FinalProject\top_level.vhd
+l0
+L5
+VkWb`BB^O9XYhc35H_=Z6^3
+!s100 Eg`KGcPjPSa:T?V7PfF4J0
+R8
+32
+Z118 !s110 1649804539
+!i10b 1
+Z119 !s108 1649804539.000000
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Bradley\EEL4712\FinalProject\top_level.vhd|
+Z121 !s107 C:\Users\Bradley\EEL4712\FinalProject\top_level.vhd|
+!i113 1
+R13
+R14
+Astr
+R54
+R72
+R2
+R3
+R4
+DEx4 work 9 top_level 0 22 kWb`BB^O9XYhc35H_=Z6^3
+l29
+L24
+V:fl=39H?80n[zN[cf31oh3
+!s100 Z@J1[69g2g@B6B]S@Mb0`1
+R8
+32
+R118
+!i10b 1
+R119
+R120
+R121
+!i113 1
+R13
+R14

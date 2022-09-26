@@ -1,0 +1,168 @@
+C:/Users/Bradley/EEL4712/FinalProject/memory_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/memory_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity memory_tb
+-- Compiling architecture TB of memory_tb
+-- Loading entity memory
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/reg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture bhv of reg
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/datapath.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/datapath.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity datapath
+-- Compiling architecture dp of datapath
+-- Loading entity reg
+-- Loading entity mux2x1
+-- Loading entity memory
+-- Loading entity register_file
+-- Loading entity mux4x1
+-- Loading entity alu
+-- Loading entity alu_control
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/alu_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/alu_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity alu_tb
+-- Compiling architecture TB of alu_tb
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/memory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity memory
+-- Compiling architecture mem of memory
+-- Loading package altera_mf_components
+-- Loading entity ram256x32
+-- Loading entity reg
+-- Loading entity mux4x1
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/ram256x32.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Bradley\EEL4712\FinalProject\ram256x32.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity ram256x32
+-- Compiling architecture SYN of ram256x32
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/top_level.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Bradley\EEL4712\FinalProject\top_level.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity top_level
+-- Compiling architecture STR of top_level
+-- Loading entity mips
+-- Loading entity decoder7seg
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/alu_control.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/alu_control.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity alu_control
+-- Compiling architecture ctrl of alu_control
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/mux2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/mux2x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2x1
+-- Compiling architecture IF_STATEMENT of mux2x1
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/mips_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/mips_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity mips_tb
+-- Compiling architecture TB of mips_tb
+-- Loading entity mips
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/mux4x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/mux4x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4x1
+-- Compiling architecture IF_STATEMENT of mux4x1
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/mips.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Bradley\EEL4712\FinalProject\mips.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mips
+-- Compiling architecture STR of mips
+-- Loading package MATH_REAL
+-- Loading entity controller
+-- Loading entity datapath
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/alu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/alu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity alu
+-- Compiling architecture operations of alu
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/controller.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity controller
+-- Compiling architecture bhv of controller
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/decoder7seg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/decoder7seg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder7seg
+-- Compiling architecture decoder of decoder7seg
+
+} {} {}} C:/Users/Bradley/EEL4712/FinalProject/register_file.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Bradley/EEL4712/FinalProject/register_file.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity register_file
+-- Compiling architecture async_read of register_file
+
+} {} {}}

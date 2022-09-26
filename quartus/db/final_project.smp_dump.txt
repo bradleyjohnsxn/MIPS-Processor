@@ -1,0 +1,21 @@
+
+State Machine - |top_level|mips:UUT_MIPS|controller:U_CONTROLLER|state_r
+Name state_r.halt state_r.branch1 state_r.branch0 state_r.link2 state_r.link state_r.j state_r.lw3 state_r.lw2 state_r.sw1 state_r.lw1 state_r.lw_sw state_r.itype2 state_r.itype1 state_r.rtype2 state_r.rtype1 state_r.decode_rfetch state_r.fetch2 state_r.fetch1 
+state_r.fetch1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+state_r.fetch2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+state_r.decode_rfetch 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+state_r.rtype1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+state_r.rtype2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+state_r.itype1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+state_r.itype2 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+state_r.lw_sw 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+state_r.lw1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+state_r.sw1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+state_r.lw2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+state_r.lw3 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+state_r.j 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+state_r.link 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state_r.link2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state_r.branch0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state_r.branch1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state_r.halt 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
